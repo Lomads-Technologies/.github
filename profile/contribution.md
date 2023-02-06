@@ -1,6 +1,6 @@
 # Submit a change or a new feature
 
-Thanks for taking the time to consider participating to Valha.
+Thanks for taking the time to consider participating to Lomads.
 
 This is only the beginning codebase and projects, and anyone is welcome to improve it.
 
