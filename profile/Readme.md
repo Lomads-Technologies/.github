@@ -1,7 +1,7 @@
 
-# Awesome GitHub Profile README Template Collection
+# Welcome to Lomads Github Page
 
-<a href="[https://www.instagram.com/thepiyushmalhotra/](https://twitter.com/lomads_co)">
+<a href="https://twitter.com/lomads_co">
   <img height="50" src="https://github.com/LomadsDAO/.github/blob/main/images/1543317_social%20media_network_twitter_icon.png"/>
 </a>
 <a href="https://www.lomads.xyz">
@@ -14,11 +14,6 @@
   <img height="50" src="https://github.com/LomadsDAO/.github/blob/main/images/7857161_linkedin_linked%20in_social%20media_network_networking_icon.png"/>
 </a>
 
-[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
-
-A collection of GitHub profile README's examples.
 
 [Contributions](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) are welcome. Read the [Guidelines](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) on how to contribute.
 Feel free to add your or someone else's GitHub profile README file.
