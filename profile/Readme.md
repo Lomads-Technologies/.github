@@ -1,6 +1,19 @@
 
 # Awesome GitHub Profile README Template Collection
 
+<a href="[https://www.instagram.com/thepiyushmalhotra/](https://twitter.com/lomads_co)">
+  <img height="50" src="https://github.com/LomadsDAO/.github/blob/main/images/1543317_social%20media_network_twitter_icon.png"/>
+</a>
+<a href="https://www.lomads.xyz">
+  <img height="50" src="https://github.com/LomadsDAO/.github/blob/main/images/1873909_world_social%20media_earth_website_world%20wide%20web_icon.png"/>
+</a>
+<a href="https://discord.gg/dXth4DYJ">
+  <img height="50" src="https://github.com/LomadsDAO/.github/blob/main/images/2417764_gamer_discord_conversation_social%20media_chat_icon.png"/>
+</a>
+<a href="https://www.linkedin.com/company/lomads/">
+  <img height="50" src="https://github.com/LomadsDAO/.github/blob/main/images/7857161_linkedin_linked%20in_social%20media_network_networking_icon.png"/>
+</a>
+
 [![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
